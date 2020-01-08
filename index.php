@@ -1,3 +1,4 @@
 <?php
-echo "HELLO WORLD GIT";
+echo "HELLO WORLD GIT <br/>";
+echo gethostname();
 ?>
